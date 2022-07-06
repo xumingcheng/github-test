@@ -1,0 +1,26 @@
+# ninja log v5
+3	336	6781265543560221	CMakeFiles/C__program.dir/main.cpp.obj	5182c51412422f10
+336	501	6781265545154900	C__program.exe	c55263094f3be0e2
+3	297	6781227329326231	CMakeFiles/C__program.dir/name_function.cpp.obj	853ae66c04f487a
+3	348	6782072852032937	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+13	350	6782072852133869	CMakeFiles/C__program.dir/main.cpp.obj	5182c51412422f10
+350	510	6782072853632952	C__program.exe	6cd5b4b5edcfeb77
+3	347	6782076496463731	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+12	364	6782076496563552	CMakeFiles/C__program.dir/main.cpp.obj	5182c51412422f10
+364	496	6782076497863597	C__program.exe	6cd5b4b5edcfeb77
+3	409	6782102946449322	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+16	428	6782102946397112	CMakeFiles/C__program.dir/main.cpp.obj	5182c51412422f10
+428	564	6782102947938122	C__program.exe	6cd5b4b5edcfeb77
+3	313	6782104443821744	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+313	440	6782104444998584	C__program.exe	6cd5b4b5edcfeb77
+15	609	6785612918986533	CMakeFiles/C__program.dir/main.cpp.obj	5182c51412422f10
+3	610	6785612918986533	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+610	857	6785612921239455	C__program.exe	6cd5b4b5edcfeb77
+3	322	6785613111049390	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+323	469	6785613112286478	C__program.exe	6cd5b4b5edcfeb77
+3	363	6785615017786478	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+364	509	6785615019157585	C__program.exe	6cd5b4b5edcfeb77
+3	388	6785616719271062	CMakeFiles/C__program.dir/Stock.cpp.obj	9a03782a6e99bef3
+388	527	6785616720741393	C__program.exe	6cd5b4b5edcfeb77
+3	344	6785632987556608	CMakeFiles/C__program.dir/main.cpp.obj	5182c51412422f10
+344	477	6785632988813670	C__program.exe	6cd5b4b5edcfeb77
